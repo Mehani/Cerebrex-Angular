@@ -1,0 +1,12 @@
+.welcome{
+    position: absolute;
+    margin: 13% 30% 18% 30%;
+    height: 40%;
+    width: 70%;
+    position: fixed;
+    text-align: left;
+  }
+p{
+    font-family: 'Valencia 14/15';
+    font-size: 300%;
+}
